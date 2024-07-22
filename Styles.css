@@ -25,16 +25,6 @@ h4 {
   font-family:"Playfair Display", serif; font-weight:400;
 }
 		
-h5 {
-  text-align:side; font-size:28; text-transform:uppercase; color:#222; letter-spacing:1px;
-  font-family:"Playfair Display", serif; font-weight:400;
-}
-
-		
-h6 {
-  text-align:side; font-size:28; text-transform:uppercase; color:#222; letter-spacing:1px;
-  font-family:"Playfair Display", serif; font-weight:400;
-}
 
 	
 
@@ -50,3 +40,5 @@ background-size: 100% auto;
 imgלהוריד {
   box-shadow: 0 0 5px 3px rgba(0, 140, 186, 0.5);
 }
+
+
