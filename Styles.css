@@ -30,7 +30,7 @@ h4 {
 
 
 html {
-background:url('background.jpg') no-repeat center center fixed;
+background:url'background.jpg' no-repeat center center fixed;
 background-size: 100% auto;
 -webkit-background-size: 100% auto;
 -moz-background-size: 100% auto;
